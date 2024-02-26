@@ -17,8 +17,8 @@
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
     
-    "appsuspand": false,
-    "appURL": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
+    "appsuspand": true,
+    "appURL": "https://play.google.com/store/apps/details?id=com.lilygames.tocabocagoldenhairstyle",
 
     "RatingActive": true
   }
